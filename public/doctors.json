@@ -1,0 +1,203 @@
+[
+  {
+    "id": 1,
+    "image": "https://www.152harleystreet.com/wp-content/uploads/2022/12/Emma-Craythorne-2-copy-scaled-1.jpg",
+    "name": "Dr. Emma Craythorne",
+    "education": "MD, PhD (Internal Medicine)",
+    "speciality": "Internal Medicine",
+    "experience": "12+ years",
+    "registration_number": "DE123456",
+    "designation": "Consultant, Charité Hospital",
+    "workplace": "Charité – Universitätsmedizin Berlin",
+    "fee": "€100",
+    "availability": [
+      "Monday",
+      "Wednesday",
+      "Friday"
+    ]
+  },
+  {
+    "id": 2,
+    "image": "https://romanomedica.it/wp-content/uploads/2020/01/dott-rossi.jpg",
+    "name": "Dr. Luca Rossi",
+    "education": "MD, MS (Orthopedics)",
+    "speciality": "Orthopedic Surgery",
+    "experience": "9+ years",
+    "registration_number": "IT234567",
+    "designation": "Orthopedic Surgeon, Humanitas Research Hospital",
+    "workplace": "Humanitas Research Hospital, Milan",
+    "fee": "€120",
+    "availability": [
+      "Tuesday",
+      "Thursday"
+    ]
+  },
+  {
+    "id": 3,
+    "image": "https://airomedical.com/_next/image?url=https%3A%2F%2Fstorage.airomedical.com%2Fimages%2Fdoctors%2F3808%2Fclqwcwnty006308rv47g1f21c.jpg&w=1920&q=100",
+    "name": "Dr. Sofia Santareno",
+    "education": "MD, DGO (Gynecology)",
+    "speciality": "Gynecology & Obstetrics",
+    "experience": "11+ years",
+    "registration_number": "FR345678",
+    "designation": "Senior Consultant, Hôpital Necker",
+    "workplace": "Hôpital Necker, Paris",
+    "fee": "€90",
+    "availability": [
+      "Monday",
+      "Wednesday",
+      "Saturday"
+    ]
+  },
+  {
+    "id": 4,
+    "image": "https://www.viralcomm.info/app/uploads/2020/08/eric-jensen-opt.jpg",
+    "name": "Dr. Erik Jensen",
+    "education": "MD, PhD (Cardiology)",
+    "speciality": "Cardiology",
+    "experience": "15+ years",
+    "registration_number": "DK456789",
+    "designation": "Chief Cardiologist, Rigshospitalet",
+    "workplace": "Rigshospitalet, Copenhagen",
+    "fee": "€140",
+    "availability": [
+      "Tuesday",
+      "Thursday",
+      "Friday"
+    ]
+  },
+  {
+    "id": 5,
+    "image": "https://wz.pwr.edu.pl/thumb/cUQVLFAFXEABibxU2AQJuCFsFEiQ_BgxMAzUG,221/en/news/77/97/5/0DVRXPBwBfwctBkRo,ania_kowalska.jpg",
+    "name": "Dr. Anna Kowalska",
+    "education": "MD, PhD (Pediatrics)",
+    "speciality": "Pediatrics",
+    "experience": "8+ years",
+    "registration_number": "PL567890",
+    "designation": "Pediatric Consultant, The Children's Memorial Health Institute",
+    "workplace": "CMHI, Warsaw",
+    "fee": "€80",
+    "availability": [
+      "Monday",
+      "Thursday",
+      "Saturday"
+    ]
+  },
+  {
+    "id": 6,
+    "image": "https://www.cuf.pt/sites/portalcuf/files/styles/doctor_1_1/public/photos_unzip/93858/Medicos/59990.jpg?itok=JWCW5Pvc",
+    "name": "Dr. Miguel Costa",
+    "education": "MD, MS (Urology)",
+    "speciality": "Urology",
+    "experience": "13+ years",
+    "registration_number": "PT678901",
+    "designation": "Urologist, Hospital da Luz",
+    "workplace": "Hospital da Luz, Lisbon",
+    "fee": "€110",
+    "availability": [
+      "Wednesday",
+      "Friday",
+      "Saturday"
+    ]
+  },
+  {
+    "id": 7,
+    "image": "https://www.ozarkshealthcare.com/app/files/public/Clara-Applegate-MD.jpg",
+    "name": "Dr. Clara Novak",
+    "education": "MD, PhD (Dermatology)",
+    "speciality": "Dermatology",
+    "experience": "7+ years",
+    "registration_number": "CZ789012",
+    "designation": "Dermatologist, Motol University Hospital",
+    "workplace": "Motol University Hospital, Prague",
+    "fee": "€70",
+    "availability": [
+      "Tuesday",
+      "Thursday"
+    ]
+  },
+  {
+    "id": 8,
+    "image": "https://www.psychologische-praxis-steiner.de/wp-content/uploads/2020/09/AS_Ueber_mich_02.jpg",
+    "name": "Dr. Andreas Steiner",
+    "education": "MD, PhD (Neurosurgery)",
+    "speciality": "Neurosurgery",
+    "experience": "16+ years",
+    "registration_number": "AT890123",
+    "designation": "Chief Neurosurgeon, Vienna General Hospital",
+    "workplace": "AKH Vienna",
+    "fee": "€150",
+    "availability": [
+      "Monday",
+      "Wednesday",
+      "Friday"
+    ]
+  },
+  {
+    "id": 9,
+    "image": "https://imagenes.elpais.com/resizer/v2/H45653PH6FEJDJWHAO7TTR3ZME.JPG?auth=065bf935354c1e568f61fe63a0efe8364cdad4399a155b0b9c12ff110925f28f&width=980&height=980&smart=true",
+    "name": "Dr. Isabella Moretti",
+    "education": "MD, PhD (Psychiatry)",
+    "speciality": "Psychiatry",
+    "experience": "10+ years",
+    "registration_number": "IT901234",
+    "designation": "Psychiatrist, San Raffaele Hospital",
+    "workplace": "San Raffaele Hospital, Milan",
+    "fee": "€95",
+    "availability": [
+      "Tuesday",
+      "Thursday",
+      "Saturday"
+    ]
+  },
+  {
+    "id": 10,
+    "image": "https://i1.rgstatic.net/ii/profile.image/11431281271267765-1723564373093_Q512/Hugo-Montemont.jpg",
+    "name": "Dr. Hugo Lefevre",
+    "education": "MD, PhD (ENT)",
+    "speciality": "ENT Specialist",
+    "experience": "14+ years",
+    "registration_number": "FR012345",
+    "designation": "ENT Consultant, CHU de Toulouse",
+    "workplace": "CHU de Toulouse, France",
+    "fee": "€100",
+    "availability": [
+      "Monday",
+      "Wednesday",
+      "Friday"
+    ]
+  },
+  {
+    "id": 11,
+    "image": "https://commerce.vaimo.com/hubfs/45472825_485092061977901_3290135099823095808_o.jpg",
+    "name": "Dr. Elina Virtanen",
+    "education": "MD, PhD (Ophthalmology)",
+    "speciality": "Ophthalmology",
+    "experience": "9+ years",
+    "registration_number": "FI112233",
+    "designation": "Ophthalmologist, Helsinki University Hospital",
+    "workplace": "HUH, Helsinki",
+    "fee": "€85",
+    "availability": [
+      "Tuesday",
+      "Thursday"
+    ]
+  },
+  {
+    "id": 12,
+    "image": "https://www.retinaconsultantsofamerica.com/media/pages/about-rca/leadership/david-brown/89b849ae6c-1730756283/dr-david-brown.jpg",
+    "name": "Dr. David Brown",
+    "education": "MD, PhD (Nephrology)",
+    "speciality": "Nephrology",
+    "experience": "12+ years",
+    "registration_number": "UK223344",
+    "designation": "Senior Nephrologist, Guy's Hospital",
+    "workplace": "Guy's and St Thomas' NHS Foundation Trust, London",
+    "fee": "£130",
+    "availability": [
+      "Monday",
+      "Wednesday",
+      "Saturday"
+    ]
+  }
+]
